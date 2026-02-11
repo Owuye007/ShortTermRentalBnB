@@ -1,0 +1,178 @@
+Perfect — luxury + SEO is a strong combo for a short-term rental.
+Here’s an **upgraded, premium prompt** you can paste straight into **Claude**. This version is tuned for **high-end feel**, **one-page layout**, and **Google optimization**.
+
+---
+
+### Luxury One-Page SEO Prompt for Claude
+
+> You are a **senior web developer, SEO specialist, and luxury brand designer**.
+>
+> Create a **high-end, luxury one-page landing website** for a short-term rental brand named **“DeNet BnB.”**
+>
+> The website should feel **upscale, modern, elegant, and inviting**, similar to premium Airbnb or boutique hotel sites.
+>
+> ---
+>
+> ### Technical Requirements
+>
+> * Use **HTML, CSS, and minimal JavaScript**
+> * Deliver everything in **one single HTML file**
+> * Fully **responsive** (desktop, tablet, mobile)
+> * Fast loading and SEO-friendly
+>
+> ---
+>
+> ### SEO & Google Optimization (Very Important)
+>
+> * Include:
+>
+>   * Proper **HTML5 semantic structure** (`header`, `section`, `article`, `footer`)
+>   * SEO-optimized **meta title and meta description**
+>   * Optimized **H1, H2, and H3 heading hierarchy**
+>   * Image `alt` text placeholders optimized for short-term rental keywords
+> * Target keywords naturally throughout the content:
+>
+>   * *Luxury short-term rental Oklahoma*
+>   * *Midwest City vacation rental*
+>   * *Wilshire Oklahoma Airbnb*
+>   * *Hot tub vacation rental Oklahoma*
+>   * *2 bedroom short-term rental*
+>   * *3 bedroom short-term rental*
+>
+> ---
+>
+> ### Page Structure (One-Page Layout)
+>
+> #### 1. Hero Section
+>
+> * Large luxury hero banner
+> * Business name: **DeNet BnB**
+> * Headline emphasizing:
+>
+>   * Comfort
+>   * Hot tubs
+>   * Premium stays in Oklahoma
+> * Call-to-action button: **“Request to Book”**
+>
+> ---
+>
+> #### 2. About DeNet BnB
+>
+> * Brief, elegant description of the brand
+> * Emphasize:
+>
+>   * High-quality accommodations
+>   * Privacy
+>   * Ideal for families, business travelers, and weekend getaways
+>
+> ---
+>
+> #### 3. Luxury Listings Section
+>
+> * Showcase **five (5) listings** in an upscale card or grid layout
+> * Each listing must include:
+>
+>   * **Four (4) luxury image placeholders** per listing
+>   * Listing name
+>   * Description
+>   * Location
+>
+> **Listing Details:**
+>
+> * **Four listings located in Midwest City, Oklahoma**
+> * **One listing located in Wilshire, Oklahoma**
+> * Use the following descriptions:
+>
+>   * *2 Bedroom with Hot Tub*
+>   * *3 Bedroom with Hot Tub and Wi-Fi*
+> * Distribute descriptions naturally across listings
+>
+> ---
+>
+> #### 4. Amenities & Features
+>
+> * Highlight amenities such as:
+>
+>   * Private hot tubs
+>   * High-speed Wi-Fi
+>   * Fully equipped kitchens
+>   * Free parking
+>   * Self check-in
+>
+> ---
+>
+> #### 5. Booking Information
+>
+> * Clearly state:
+>
+>   * **2-night minimum stay required**
+>   * Direct booking through the host
+> * Include:
+>
+>   * Phone number placeholder
+>   * Email placeholder
+>   * Luxury-styled **“Request to Book”** button
+>
+> ---
+>
+> #### 6. Location Coverage
+>
+> * Section describing service areas:
+>
+>   * Midwest City, Oklahoma
+>   * Wilshire, Oklahoma
+> * Mention proximity to:
+>
+>   * Local attractions
+>   * Dining
+>   * Business districts
+>
+> ---
+>
+> #### 7. Footer
+>
+> * Business name: **DeNet BnB**
+> * Short-term rental brand serving Oklahoma
+> * Simple legal disclaimer
+> * Contact information repeated for conversions
+>
+> ---
+>
+> ### Design Guidelines
+>
+> * Neutral luxury color palette (cream, charcoal, gold accents)
+> * Elegant typography
+> * Spacious layout with premium feel
+> * Subtle animations or hover effects (optional)
+>
+> ---
+>
+> ### Output Instructions
+>
+> * Return **only the complete HTML code**
+> * Include:
+>
+>   * Embedded CSS
+>   * Minimal JavaScript
+>   * SEO-friendly comments
+> * Clearly comment where real images and contact details should be inserted
+> * Do **not** include explanations or commentary outside the code block
+
+---
+
+### Pro tip for you 💎
+
+Once Claude generates the site:
+
+* Replace image placeholders with **real listing photos**
+* Add **Google Analytics + Google Search Console**
+* Submit the site to Google for indexing
+
+If you want, I can next:
+
+* Rewrite this prompt to **rank for a specific city**
+* Add **schema markup (JSON-LD)** for Google rich results
+* Create **copy that converts Airbnb guests into direct bookings**
+* Help you host it on **Netlify or GitHub Pages**
+
+Just say where you want to take it next 🚀
